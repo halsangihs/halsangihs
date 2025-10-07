@@ -24,8 +24,8 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/yashsavalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://instagram.com/yash_savalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/hanamant-halsangi-0107b7296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/halsangihs/?next=%2F&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
 </p>
 
 ---
@@ -58,17 +58,12 @@
 
 ### 🚀 Competitive Programming Profiles:
 <p align="center">
-  <a href="https://www.codeforces.com/profile/yash_savalkar">
-    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=yash_savalkar&theme=github_dark&border_color=404040" alt="Codeforces Stats"/>
+  <a href="https://www.codechef.com/users/hanam_123">
+    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=halsangihs&theme=github_dark&border_color=404040" alt="Codeforces Stats"/>
   </a>
-  <a href="https://www.leetcode.com/yashsavalkar321">
-    <img height="316" src="https://leetcard.jacoblin.cool/yashsavalkar321?theme=dark&font=Ubuntu" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/hanamant_h24">
+    <img height="316" src="https://leetcard.jacoblin.cool/hanamant_h24?theme=dark&font=Ubuntu" alt="LeetCode Stats"/>
   </a>
 </p>
 
 ---
-
-### 🐍 Contribution Snake Game:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
