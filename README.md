@@ -9,7 +9,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Yash Savalkar</h1>
+<h1 align="center">Hi 👋, I'm Hanamant Halsangi</h1>
 <h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
 
 <img align="right" alt="coding_gif" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **DSA**
 - 💡 I love working on **Full-Stack Development, DSA, and CP**
 - 👯 I’m looking to collaborate on **Web Development Projects & Hackathons**
-- 📫 How to reach me: **yashsavalkar321@gmail.com**
+- 📫 How to reach me: **hanamanthalsangi4444@gmail.com**
 
 ---
 
